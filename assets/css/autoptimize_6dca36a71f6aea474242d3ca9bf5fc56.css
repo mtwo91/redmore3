@@ -21344,7 +21344,7 @@ lesshat-selector {
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  content: "\e84e";
+  content: "''";
   font-size: 54px;
   line-height: 1.3em;
   width: 60px;
@@ -30676,7 +30676,7 @@ body:not(.rtl) .elementor-widget-lte-icons .lte-block-icon.lte-icon-divider-dash
   width: 40px;
   height: 40px;
   width: 120px;
-  line-height: 39px
+  line-height: 25px
 }
 
 .lte-arrow-left.lte-arrow-left:before,.lte-arrow-right.lte-arrow-left:before,.lte-arrow-left.lte-arrow-right:before,.lte-arrow-right.lte-arrow-right:before {
@@ -30697,7 +30697,7 @@ body:not(.rtl) .elementor-widget-lte-icons .lte-block-icon.lte-icon-divider-dash
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  content: "\e823";
+  content: "▸";
   -webkit-transform: scale(-1,1);
   -moz-transform: scale(-1,1);
   -ms-transform: scale(-1,1);
@@ -30722,7 +30722,7 @@ body:not(.rtl) .elementor-widget-lte-icons .lte-block-icon.lte-icon-divider-dash
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  content: "\e823";
+  content: "▸";
   right: -1px
 }
 
