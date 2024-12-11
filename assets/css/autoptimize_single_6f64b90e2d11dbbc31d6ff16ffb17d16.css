@@ -1,0 +1,77 @@
+.elementor-16870 .elementor-element.elementor-element-84e1d1f.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+    justify-content: flex-end
+}
+
+.elementor-16870 .elementor-element.elementor-element-6d4a2af.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+    justify-content: flex-start
+}
+
+@media(max-width: 1199px) {
+    .elementor-16870 .elementor-element.elementor-element-84e1d1f.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+        justify-content:center
+    }
+
+    .elementor-16870 .elementor-element.elementor-element-6d4a2af.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+        justify-content: center
+    }
+
+    .elementor-16870 .elementor-element.elementor-element-d294cff {
+        width: auto;
+        max-width: auto
+    }
+
+    .elementor-16870 .elementor-element.elementor-element-12b5369.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+        justify-content: center
+    }
+
+    .elementor-16870 .elementor-element.elementor-element-e6cb8fd>.elementor-widget-container {
+        margin: 16px 0 36px
+    }
+
+    .elementor-16870 .elementor-element.elementor-element-e6cb8fd {
+        width: initial;
+        max-width: initial
+    }
+}
+
+@media(max-width: 767px) {
+    .elementor-16870 .elementor-element.elementor-element-6d4a2af {
+        width:100%
+    }
+
+    .elementor-16870 .elementor-element.elementor-element-6d4a2af.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+        justify-content: center
+    }
+
+    .elementor-16870 .elementor-element.elementor-element-12b5369 {
+        width: 100%
+    }
+
+    .elementor-16870 .elementor-element.elementor-element-12b5369.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+        justify-content: center
+    }
+}
+
+@media(min-width: 768px) {
+    .elementor-16870 .elementor-element.elementor-element-84e1d1f {
+        width:25%
+    }
+
+    .elementor-16870 .elementor-element.elementor-element-6d4a2af {
+        width: 49.332%
+    }
+
+    .elementor-16870 .elementor-element.elementor-element-12b5369 {
+        width: 25%
+    }
+}
+
+@media(max-width: 1199px) and (min-width:768px) {
+    .elementor-16870 .elementor-element.elementor-element-6d4a2af {
+        width:100%
+    }
+
+    .elementor-16870 .elementor-element.elementor-element-12b5369 {
+        width: 100%
+    }
+}
