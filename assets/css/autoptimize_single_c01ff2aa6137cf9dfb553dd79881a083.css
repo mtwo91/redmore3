@@ -139,7 +139,7 @@
 }
 
 .elementor-18492 .elementor-element.elementor-element-aeb13c4:not(.elementor-motion-effects-element-type-background)>.elementor-column-wrap,.elementor-18492 .elementor-element.elementor-element-aeb13c4>.elementor-column-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("/images/bg-eecv.jpg");
+    background-image: url("/assets/img/bg-eecv.jpg");
     background-position: 0 80%;
     background-size: cover
 }
@@ -228,7 +228,7 @@
 }
 
 .elementor-18492 .elementor-element.elementor-element-665710a:not(.elementor-motion-effects-element-type-background),.elementor-18492 .elementor-element.elementor-element-665710a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("/images/parallax_04.jpg");
+    background-image: url("/assets/img/parallax_04.jpg");
     background-size: cover
 }
 
@@ -325,7 +325,7 @@
 }
 
 .elementor-18492 .elementor-element.elementor-element-aaae096:not(.elementor-motion-effects-element-type-background),.elementor-18492 .elementor-element.elementor-element-aaae096>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("/images/bg-feedback.jpg");
+    background-image: url("/assets/img/bg-feedback.jpg");
     background-size: cover
 }
 

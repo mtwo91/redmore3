@@ -22560,7 +22560,7 @@ body:not(.error404) .copyright-block.copyright-layout-copyright-transparent {
 
 .copyright-block:after {
   content: "";
-  background-image: url(//calmes.like-themes.com/wp-content/themes/calmes/assets/images/pattern-01.png);
+  background-image: url(/images/pattern-01.png);
   position: absolute;
   top: 0;
   right: 0;
