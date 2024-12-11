@@ -22560,7 +22560,7 @@ body:not(.error404) .copyright-block.copyright-layout-copyright-transparent {
 
 .copyright-block:after {
   content: "";
-  background-image: url(/images/pattern-01.png);
+  background-image: url(https://redmore.vn/imgs/pattern-01.png);
   position: absolute;
   top: 0;
   right: 0;
@@ -22569,7 +22569,7 @@ body:not(.error404) .copyright-block.copyright-layout-copyright-transparent {
   zoom:1;filter: alpha(opacity=20);
   -webkit-opacity: .2;
   -moz-opacity: .2;
-  opacity: .2
+  opacity: 1;
 }
 
 .error404.lte-bg-404 .copyright-block {
